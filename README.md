@@ -1,2 +1,2 @@
 # turtle-basics
-Fun learning with Python's turtle library
+Fun learning about Python's turtle library
